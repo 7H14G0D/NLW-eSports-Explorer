@@ -1,6 +1,6 @@
 # NLW eSports 09/2022
 
-![preview](./.github/preview.png)
+![preview](./src/imagens/preview.png)
 
 > Trilha Explorer
 
